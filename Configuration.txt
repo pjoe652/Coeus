@@ -1,0 +1,12 @@
+Configuration Management
+Central to much of the support that must be provided to customers is the configuration of their
+network, servers and personal workstations. The customers who outsource all of their IT to Diagonal
+Solutions may expect some form of management of their assets. The information that is held about
+the customers systems is held in a Microsoft Word document, providing instructions on how to
+remote control their systems and on what is installed on their servers and workstations. Although it
+may be beneficial to hold this information together with the incident log (for example, to provide a
+sound basis for support of an incident [8] or to identify the computer that a certain user has allocated
+to them) it expands the scope of this project too far and would push timescales significantly. This is
+something that could, and probably should be considered and implemented in future versions of the
+helpdesk system but, because the documentation is already held elsewhere, it does not form part of the
+minimum functional requirements for the successful day-to-day management of the helpdesk process. 

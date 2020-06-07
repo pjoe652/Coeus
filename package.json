@@ -1,0 +1,32 @@
+{
+  "scripts": {
+    "start": "nodemon server.js",
+    "dev:server": "nodemon --ignore sessions/ server.js"
+  },
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "bayes-classifier": "0.0.5",
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "imap": "^0.8.19",
+    "keyword-extractor": "0.0.15",
+    "knex": "^0.15.2",
+    "nodemailer": "^4.7.0",
+    "nodemon": "^1.18.7",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "pg": "^7.6.1",
+    "react-alert": "^4.0.4",
+    "react-alert-template-basic": "^1.0.0",
+    "sentiment": "^5.0.1",
+    "session-file-store": "^1.2.0",
+    "thesaurus": "0.0.0",
+    "uuid": "^3.3.2",
+    "wink-naive-bayes-text-classifier": "^2.0.0"
+  }
+}

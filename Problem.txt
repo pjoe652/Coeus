@@ -1,0 +1,12 @@
+Problem Management
+Going a stage beyond incident management leads towards an enriched system capable of managing
+problems – the underlying causes of many incidents. “The goal of Problem Management is to
+minimise the adverse impact of Incidents and Problems on the business that are caused by errors
+within the IT Infrastructure, and to prevent recurrence of Incidents related to these errors” [8]. By
+incorporating problem management into the new system the project would be made much more
+complex. It is felt that this area should be kept outside the scope of the project for several reasons.
+Firstly, the number of calls that Diagonal Solutions receive is relatively few when compared with
+many corporate helpdesks. Additionally, with few technicians communicating problems between
+them very effectively by email this is not currently a priority. Whilst it is felt that having some form
+of problem management mechanisms within the system, it is hoped that a well designed database will
+easily support future application enhancements without fundamental system changes. 

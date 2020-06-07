@@ -1,0 +1,9 @@
+Change Management 
+As described in the ITIL guidelines “change arises as a result of Problems, but many Changes can
+come from proactively seeking business benefits such as reducing costs or improving services [8].” It
+is felt that change management should have processes that remain separate from the day-to-day
+running of the helpdesk. Whilst the need for certain changes may arise from an underlying system
+problem with, it is more than likely that any change would be managed by an account manager, not by
+a support technician. Implementing this kind of functionality may increase the complexity of the
+system unnecessarily because current systems (be them software or human) already deal effectively
+with this process.

@@ -1,0 +1,12 @@
+Incident Management
+The CCTA state in [8] that “the primary goal of the Incident Management process is to restore normal
+service operation as quickly as possible and minimise the adverse impacts on business” which must be
+considered to be the main function of the helpdesk system because it is a fundamental role within IT
+Support that incidents are managed effectively. When not appropriately dealt with, incidents will lead
+to extended periods of decreased productivity or none whatsoever. The CCTA also state that “normal
+operation” should be defined within the service level agreement [8]. Whilst this may be done at
+Diagonal Solutions, there is nothing in their current system to ensure that the service level agreement
+is met. Functionality in the new system support would ensure that the clients’ SLA agreements are
+adhered to and that penalties imposed upon failing to reach these agreements are minimised. The
+requirements capture has stated that this must be in the new system and, as such, forms part of the
+minimum requirements of the project. 
