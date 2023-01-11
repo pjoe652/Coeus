@@ -15,7 +15,7 @@
     "express-session": "^1.15.6",
     "imap": "^0.8.19",
     "keyword-extractor": "0.0.15",
-    "knex": "^0.15.2",
+    "knex": "^2.4.0",
     "nodemailer": "^4.7.0",
     "nodemon": "^1.18.7",
     "passport": "^0.4.0",
